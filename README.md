@@ -9,7 +9,7 @@
 <p align="left">
 <a href="https://twitter.com/developer.foryda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="developer.foryda" height="30" width="40" /></a>
 <a href="https://instagram.com/developer.foryda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="developer.foryda" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/foryda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="foryda" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/UCRzGd6O9QXLNm6Nl-QoWUlw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="foryda" height="30" width="40" /></a>
 <a href="https://discord.gg/4k8fuH35dT" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="4k8fuH35dT" height="30" width="40" /></a>
 </p>
 
